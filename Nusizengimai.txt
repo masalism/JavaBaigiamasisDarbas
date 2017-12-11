@@ -1,0 +1,6 @@
+3|greicio virsijimas|100|150
+5|spajudymas pro langa|500|80
+2|greicio virsijimas|10000|300
+3|duminimas|10|30
+4|lytinis aktas vaziuojant|600|250
+1|greicio virsijimas|400|200

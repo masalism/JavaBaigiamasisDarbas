@@ -1,0 +1,7 @@
+id|modelis|marke|aprasymas|max_greitis
+Ferrari|LaFerarri|Sportinis|350
+Toyota|Corrola|Miesto autobilis|180
+Audi|RS6|Sportinis sedanas|250
+BMW|M5|Sportinis sedanas|250
+Porsche|918 Spyder|Hypercar|350
+Lada|430|Trantas|70
